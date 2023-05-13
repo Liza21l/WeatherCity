@@ -1,0 +1,72 @@
+body{
+    background: url(./pexels-pixabay-209831.jpg);
+    background-size: cover;
+}
+.card{
+    margin-left: 610px;
+    width: 215px;
+    height: 246px;
+    background: rgba(255, 255, 255, 0.56);
+    border-radius: 15px;
+}
+input{
+    margin-top: 35px;
+    margin-left: 542px;
+    width: 317px;
+    height: 36px;
+    background: rgba(255, 255, 255, 0.407);
+    border-radius: 40px;
+    border: none;
+}
+.logo{
+    text-align: center;
+    margin-top: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+button{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 10px;
+    width: 36px;
+    height: 36px;
+    background: rgba(127, 165, 190, 0.874);
+    border-radius: 10px;
+    border: none;
+}
+.name{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    
+    color: #000000;
+}
+.icon{
+    padding-left: 55px;
+    width: 100px;
+    height: 100px;
+}
+.temp{
+    margin-left: 5px;
+    font-size: 14px;
+}
+.winde{
+    position: absolute;
+    margin-top: -31px;
+    padding-left: 133px;
+    font-size: 14px;
+}
+.IMG{
+    position: absolute;
+    width: 64px;
+    margin-left: 615px;
+    margin-top: -25px;
+}
